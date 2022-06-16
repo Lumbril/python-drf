@@ -1,0 +1,15 @@
+pika
+redis
+Django
+gunicorn
+drf-yasg
+DateTime
+channels
+python-dotenv
+django-filter
+channels-redis
+django-jazzmin
+psycopg2-binary
+uvicorn[standard]
+django-cors-headers
+djangorestframework
